@@ -11,7 +11,6 @@ public class L_5_12 {
                 {6, 7, 8, 9},
                 {10, 12}
         };
-
             System.out.println(Arrays.deepToString(arr2));
     }
 }
