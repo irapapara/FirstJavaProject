@@ -13,7 +13,8 @@ public class L_4_6 {
         for (int i : ints) {// перебираем элементы массива ints , это  сокращенная форма записи
             System.out.println(i);
         }
-        double allRides [][] = {
+        double[][] allRides;
+        allRides = new double[][]{
                 {15.0, 21.8, 20.5, 18.9},
                 {22.8, 25.6, 25.9, 30.5, 24.8, 26.8}
         };

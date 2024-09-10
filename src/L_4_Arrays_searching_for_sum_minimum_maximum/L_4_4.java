@@ -1,7 +1,7 @@
 package L_4_Arrays_searching_for_sum_minimum_maximum;
 
 
-import java.util.Arrays;
+
 
 public class L_4_4 {
     public static void main(String[] args) {
