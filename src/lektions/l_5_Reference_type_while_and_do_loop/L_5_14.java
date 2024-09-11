@@ -1,14 +1,12 @@
 package lektions.l_5_Reference_type_while_and_do_loop;
 
-import java.util.Arrays;
-
-public class L_5_13 {
+public class L_5_14 {
     public static void main(String[] args) {
 
         for (int i = 0; i < 10; i++ ) {
 
             if ( i == 5) {
-                break;// прерывает весь цикл
+                continue;// прерывает итерацию, вернется обратно и начнет след итерацию
             }
             System.out.println( i );
         }
